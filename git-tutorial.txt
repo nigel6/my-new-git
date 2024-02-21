@@ -12,3 +12,5 @@ Git merge creats a commit hash to store merging process.
 We can have more a branch on a project, and finally merge all the branches to Master or Main branch.
 Do you know how to fix a bug?
 I think I have an idea
+Git and GitHub is a good example of Google Drive
+We can have several branches on a project
